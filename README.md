@@ -1,2 +1,0 @@
-# Basic-Typescript
-Basic Typescript
